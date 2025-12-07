@@ -7,6 +7,8 @@ This repository contains a well-structured collection of **class notes, assignme
 ✅ AWS
 ✅ GCP
 ✅ DevSecOps
+✅ FinOps
+✅ GitOps
 ✅ MLOps
 
 ---
